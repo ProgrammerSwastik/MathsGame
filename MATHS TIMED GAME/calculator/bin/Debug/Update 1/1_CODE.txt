@@ -1,0 +1,87 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Runtime.CompilerServices;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace calculator
+{
+    public partial class MathTimedGame : Form
+    {
+        public int timeLeft;
+        public int a;
+        public int b;
+        public int c;
+        public MathTimedGame()
+        {
+            InitializeComponent();
+        }
+
+        private void startButton_Click(object sender, EventArgs e)
+        {
+            timeLeft = 4;
+           // timerLabel.Text = timeLeft.ToString();
+            Random r = new Random();
+             a = r.Next(12) + 1;
+             b = r.Next(12) + 1;
+            alabel.Text = a.ToString();
+            blabel.Text = b.ToString();
+
+            timer1.Start();
+
+
+            startButton.Enabled = false;
+            doneButton.Enabled = true;
+        }
+
+        private void MathTimedGame_Load(object sender, EventArgs e)
+        {
+            timer1.Enabled = true;
+            timer1.Stop();
+           
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            if (timeLeft > 0)
+            {
+                timeLeft--;
+                timerLabel.Text = timeLeft.ToString();
+            }
+
+            if (timeLeft == 0)
+            {
+                doneButton.Enabled = false;
+                startButton.Enabled = true;
+                timer1.Stop();
+                timerLabel.Text = "";
+            }
+
+        }
+
+        private void doneButton_Click(object sender, EventArgs e)
+        {
+            doneButton.Enabled = false ;
+            startButton.Enabled = true;
+            timer1.Stop();
+
+             c = a + b ;
+            
+            if(answerBox.Text == c.ToString())
+            {
+                timer1.Stop();
+                timeleftmore.Enabled = false;
+                timerLabel.Text = "YOU WIN";
+            }
+            else
+            {
+                timerLabel.Text = "YOU LOST";
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\calculator\calculator\bin\Debug\calculator.exe.config
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\calculator\calculator\bin\Debug\calculator.exe
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\calculator\calculator\bin\Debug\calculator.pdb
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\calculator\calculator\obj\Debug\calculator.exe
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\calculator\calculator\obj\Debug\calculator.pdb
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\calculator\calculator\obj\Debug\calculator.MathTimedGame.resources
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\MATHS TIMED GAME\calculator\bin\Debug\calculator.exe.config
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\MATHS TIMED GAME\calculator\bin\Debug\calculator.exe
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\MATHS TIMED GAME\calculator\bin\Debug\calculator.pdb
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\MATHS TIMED GAME\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\MATHS TIMED GAME\calculator\obj\Debug\calculator.MathTimedGame.resources
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\MATHS TIMED GAME\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\MATHS TIMED GAME\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\MATHS TIMED GAME\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\MATHS TIMED GAME\calculator\obj\Debug\calculator.exe
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\ON WORK\MATHS TIMED GAME\calculator\obj\Debug\calculator.pdb
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\SUCCESSFUL\MATHS TIMED GAME\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\SUCCESSFUL\MATHS TIMED GAME\calculator\obj\Debug\calculator.MathTimedGame.resources
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\SUCCESSFUL\MATHS TIMED GAME\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\SUCCESSFUL\MATHS TIMED GAME\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\SUCCESSFUL\MATHS TIMED GAME\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\SUCCESSFUL\MATHS TIMED GAME\calculator\obj\Debug\calculator.exe
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\SUCCESSFUL\MATHS TIMED GAME\calculator\obj\Debug\calculator.pdb
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\SUCCESSFUL\MATHS TIMED GAME\calculator\bin\Debug\calculator.exe.config
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\SUCCESSFUL\MATHS TIMED GAME\calculator\bin\Debug\calculator.exe
+C:\VISUAL STDIO 2019\MY VISUAL STDIO 2019 PROJECTS\SUCCESSFUL\MATHS TIMED GAME\calculator\bin\Debug\calculator.pdb
